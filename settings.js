@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349155298855"
-global.ownername = "Voltage Lord👑"
+global.ownernomer = "50943589478"
+global.ownername = "Prince Obscure👑"
 global.ytname = "YT: Voltagelordprotech"
 global.socialm = "GitHub: VoltageLord"
 global.location = "Nigeria, Edo, Benin"
 
-global.ownernumber = '2349155298855'  //creator number
-global.ownername = 'Voltage Lord' //owner name
+global.ownernumber = '50943589478'  //creator number
+global.ownername = 'Prince Obscure' //owner name
 global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'VOLTAGE 👑\n\nContact: +2349155298855'
+global.author = 'VOLTAGE 👑\n\nContact: +50943589478'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -24,7 +24,7 @@ global.wm = "VOLTAGE TECH."
 global.link = 'https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['+','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -40,7 +40,7 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
